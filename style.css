@@ -1,0 +1,10 @@
+header, main{
+    display: block;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+button{
+    width: 80px;
+}
